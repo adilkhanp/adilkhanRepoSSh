@@ -6,3 +6,4 @@ this is the eighth line added from remote repository
 this is seventh line added from local repo
 this is the sixth line
 this is the nineth line
+this line is added from new branch
