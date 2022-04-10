@@ -2,3 +2,4 @@ this is the sample file
 this is second line.
 this is the third line 
 and it is edited from notepad++
+this is the fifth line edited for viewing diff
