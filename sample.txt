@@ -3,4 +3,5 @@ added sixth line to  file sample.txt
 this is the seventh line
 this line is added from remote repo
 this is the eighth line added from remote repository
+this is the sixth line
 this is the nineth line
